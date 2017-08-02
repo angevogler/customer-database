@@ -1,0 +1,52 @@
+body {
+  font-family: 'Gill Sans', Arial, sans-serif;
+  width: 1000px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.header {
+text-align: center;
+text-transform: uppercase;
+margin-top: 5%;
+width: 100%;
+font-family: Arial, sans-serif;
+}
+
+.user-profile {
+  float: left;
+  width: 21%;
+  margin:5% 1% 2% 1%;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.user-photo {
+  width: 100%;
+}
+
+.user-name {
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-decoration-color: teal;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+}
+
+.user-email {
+  text-transform: uppercase;
+  font-size: 10px;
+  color: lightGrey;
+  font-weight: 50;
+}
+
+.user-contact {
+  list-style-type: none;
+  padding:0;
+  color: grey;
+  width: 100%
+}
+
+.user-ssn {
+  color: teal;
+}
